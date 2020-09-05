@@ -1,5 +1,5 @@
 {
-  "name": "@m22spirit/babylonjs-ammojs",
+  "name": "@m22/babylonjs-ammojs",
   "version": "0.0.2",
   "description": "custom ammojs build for babylonjs to publish on npm",
   "main": "ammo.js",
